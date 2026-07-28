@@ -66,7 +66,14 @@ Yahoo Finance через библиотеку yfinance.
 2. Загрузка данных
 3. Проверка качества данных
 4. Доходности и базовая статистика
-
+5. Волатильность и корреляционная матрица
+6. Value at Risk (VaR) и Conditional VaR (CVaR)
+7. Sharpe и Sortino Ratio
+8. Maximum Drawdowv
+9. Calmar Ratio
+10. Rolling Sharpe / Rolling Volatility
+11. PCA на ковариационной матрице
+12. Efficient Frontier (Марковиц)
 
 
 
